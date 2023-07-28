@@ -1,0 +1,19 @@
+Top headlines
+
+https://newsapi.org/v2/top-headlines?country=us&apiKey=<YOUR-API-KEY-HERE>
+https://newsapi.org/v2/top-headlines?sources=bbc-news&apiKey=<YOUR-API-KEY-HERE>
+https://newsapi.org/v2/top-headlines?country=de&category=business&apiKey=<YOUR-API-KEY-HERE>
+https://newsapi.org/v2/top-headlines?q=trump&apiKey=<YOUR-API-KEY-HERE>
+
+Everything
+All articles about Bitcoin
+https://newsapi.org/v2/everything?q=bitcoin&apiKey=<YOUR-API-KEY-HERE>
+//https://newsapi.org/v2/everything?q=apple&from=2023-07-17&to=2023-07-17&sortBy=popularity&apiKey=<YOUR-API-KEY-HERE>
+//https://newsapi.org/v2/everything?domains=techcrunch.com,thenextweb.com&apiKey=<YOUR-API-KEY-HERE>
+
+
+All sources
+
+https://newsapi.org/v2/top-headlines/sources?apiKey=<YOUR-API-KEY-HERE>
+https://newsapi.org/v2/top-headlines/sources?category=business&apiKey=<YOUR-API-KEY-HERE>
+https://newsapi.org/v2/top-headlines/sources?country=us&apiKey=<YOUR-API-KEY-HERE>
